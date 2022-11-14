@@ -1,16 +1,6 @@
 # latihan_konversi_suhu
+![Bab3_1](https://user-images.githubusercontent.com/95389892/201724540-340d5f17-500d-4946-80ec-1992d3b15753.JPG)
+![Bab3_2](https://user-images.githubusercontent.com/95389892/201724578-9b997d5e-260f-4b71-8364-e15bac7475ab.JPG)
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
